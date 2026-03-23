@@ -21,56 +21,52 @@
 - 🚀 Building real-world projects  
 
 ---
-
 ## 🛠️ Skills
 
-### 👨‍💻 Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
 
-### 🌐 Web
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,react" height="60"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,linux,mysql" height="60"/>
+
+</p>
 
 ### 📊 Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-Blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-Orange?style=for-the-badge" />
+</p>
 
 ### 📚 Core Concepts
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures-blue?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-Concepts-orange?style=for-the-badge)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge" />
+</p>
 ---
 
-## 📂 Projects
 
-- 🔹 Resume Analyzer (ATS System)  
-- 🔹 DSA Visualizer  
-- 🔹 AI Chatbot  
-- 🔹 Amazon Price Tracker  
-- 🔹 YouTube Downloader  
-
----
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:jitendra25042006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Jitendra7867">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
 
+<a href="mailto:jitendra25042006@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
+</a>
+
+<a href="https://github.com/Jitendra7867">
+  <img src="https://skillicons.dev/icons?i=github" height="60"/>
+</a>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+</a>
+
+</p>
 ---
 
 <!-- 🔥 FOOTER -->
