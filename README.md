@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📚 Core Concepts
-### 📚 Core Concepts
+
 
 <p>
   <img src="https://img.shields.io/badge/DSA-blue?style=for-the-badge"/>
@@ -67,7 +67,6 @@
 
 ## 📫 Connect With Me
 - 📧 Email: jitendra25042006@gmail.com  
-- 🔗 LinkedIn: (Add Link)  
 - 💻 GitHub: https://github.com/Jitendra7867  
 
 ---
