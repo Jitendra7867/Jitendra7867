@@ -21,53 +21,65 @@
 - 🚀 Building real-world projects  
 
 ---
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,react" height="60"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,linux,mysql" height="60"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,react,mysql,git,linux" />
 
 </p>
 
-### 📊 Data Science
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/Seaborn-Blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-Orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-OOP-orange?style=for-the-badge"/>
 </p>
 
-### 📚 Core Concepts
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
 </p>
----
+## 📊 GitHub Stats
 
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Jitendra7867&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra7867&theme=tokyonight" height="180"/>
+
+</p>## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jitendra7867&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra7867&theme=tokyonight" height="180"/>
+
+</p>
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jitendra7867&theme=tokyo-night" />
+</p>
 
 ## 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:jitendra25042006@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Jitendra7867">
-  <img src="https://skillicons.dev/icons?i=github" height="60"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
----
 
 <!-- 🔥 FOOTER -->
 <p align="center">
