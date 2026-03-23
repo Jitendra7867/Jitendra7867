@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Jitendra Swami
 
-<!--
-**Jitendra7867/Jitendra7867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Computer Science Student (Data Science)
+- Interested in Software Development & AI
+- Strong in Java, C++, Python
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Java, C++, Python
+- Data Structures & Algorithms
+- OOP, DBMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Resume Analyzer (ATS System)
+- DSA Visualizer
+- AI Chatbot
+- YouTube Downloader
+
+## 📫 Contact
+- Email: jitendra25042006@gmail.com
