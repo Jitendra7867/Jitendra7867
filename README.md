@@ -1,6 +1,6 @@
 <!-- 🔥 TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=Jitendra%20Swami&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Jitendra%20Swami&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20CSE%20Student&descAlignY=55&descAlign=50"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jitendra Swami</h1>
@@ -48,15 +48,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra7867&theme=tokyonight" height="180"/>
 
-</p>## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jitendra7867&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra7867&theme=tokyonight" height="180"/>
-
-</p>
 ## 🔥 Contribution Graph
 
 <p align="center">
@@ -83,5 +75,5 @@
 
 <!-- 🔥 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=150&section=footer"/>
 </p>
